@@ -1,0 +1,35 @@
+Title: Boulder Dash
+Environment: MSX or newer, Keyboard & Joysticks, Musical Memory Mapper Cartridge
+Genre: Action / Puzzle
+Language: English
+Year: 1984
+Publishers: Telegames USA, TP Canada, CBS Electronics or Micro Fun.
+Developer: Chris Oberth, Peter Leipa and Chris Gray.
+Copyright: First Star Software Inc.
+
+Notes:
+- Start the game with ROM2MMM.COM under MSX-DOS 1/2, or from a plain ROM of
+  same size.
+- Conversion by GDX.
+- Version with fixed keyboard.
+- The MSX with a Russian keyboard are not supported.
+- crc32 = 8667e0f0
+
+Keys Mapping:
+
+ F5           -  Reset game
+ Cursor keys  -  Movement of player 1, Level and stage select
+ SPACE        -  Hold this key and press cursor keys to take the jewel, push
+                 a rock or dig nearby without move.
+ 0            -  Pause (press 8 to continue)
+ 1-2          -  Player number select
+ RETURN       -  Give up the current player
+ SELECT       -  Go to selection menu
+
+Joysticks:
+
+ Joystick 1   -  Movement of player 1, level and stage select
+ Joystick 2   -  Movement of player 2
+ Button 1     -  Hold this botton and press cursor keys to take the jewel
+                 or dig nearby.
+ Button 1+2   -  Give up the current player

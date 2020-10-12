@@ -1,0 +1,18 @@
+cz lhx
+cz -E300 lhproc
+cz lhscan
+cz addbfcrc
+cz crcdefs
+cz lzhufd
+cz memset
+cz memcpy
+as lhx
+as lhproc
+as lhscan
+as addbfcrc
+as crcdefs
+as lzhufd
+as memset
+as memcpy
+ln -o lhx.com lhx.o lzhufd.o lhproc.o lhscan.o addbfcrc.o crcdefs.o memset.o memcpy.o -lc
+ LOGO    ASCLZHUFD  ASMLZHUFD  C  LZHUFD  O  MAKEFILE   MAKEFILEBAKMEMCPY  ASMMEMCPY  C  MEMCPY  O  MEMSET  AS

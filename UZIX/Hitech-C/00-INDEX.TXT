@@ -1,0 +1,11 @@
+CGEN.EXE       119022  06-19-93  
+LIBSRC.EXE      84006  06-19-93  A self-extracting lharc'ed archive containg
+                               | the library source code
+MOTOROLA.EXE   619622  06-19-93  
+Z8051H83.EXE   537182  06-19-93  
+Z80DOC.EXE      99557  06-19-93  A self-extracting lharc'ed archive containing
+                               | a manual for the Z80 CP/M compiler
+Z80READ.ME        883  06-19-93  README FIRST!!!
+Z80V309.EXE    203602  06-19-93  A self-extracting lharc'ed archive containing
+                               | the entire compiler except for the library
+                               | source code

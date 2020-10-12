@@ -1,0 +1,30 @@
+
+Bestand:	LHX-C.LHZ
+Aangeboden door:SPYKLINE
+Inhoud:		Source-code in C voor LHX.COM
+Datum:		12 oktober 1990
+
+===========================================================================
+
+De files in deze library bestaan uit sources in C voor het maken van het
+programma LHX.COM. Het gecompileerde programma staat hier niet bij. Deze is
+apart te laden.
+U heeft in ieder geval een "C" compiler nodig. De code is oorsprongkelijk
+geschreven voor gebruik met het besturingsysteem CP/M 2.2. Natuurlijk kan
+ook de voor MSX-2 uitgebrachte CP/M Plus gebruikt worden.
+Welke versie van C is gebruikt is niet bekend.
+
+Indien u in staat bent om een snellere versie van LHX voor de MSX te maken,
+dan zouden we het bijzonder op prijs stellen als u deze ter beschikking
+wilt stellen aan Spykline. Wij zorgen er dan voor dat deze onder de MSX-
+gebruikers wordt verspreid.
+
+
+
+--------------------------------------------------------------------------
+
+SPYKLINE	Tel: 01880-44121 (24 uur per dag) V.21 en V.23
+
+--------------------------------------------------------------------------
+
+

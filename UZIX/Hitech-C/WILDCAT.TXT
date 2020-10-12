@@ -1,0 +1,7 @@
+CGEN.EXE      
+LIBSRC.EXE    A self-extracting lharc'ed archive containg the library source code
+MOTOROLA.EXE  
+Z8051H83.EXE  
+Z80DOC.EXE    A self-extracting lharc'ed archive containing a manual for the Z80 CP/M compiler
+Z80READ.ME    README FIRST!!!
+Z80V309.EXE   A self-extracting lharc'ed archive containing the entire compiler except for the library source code

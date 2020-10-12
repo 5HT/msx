@@ -1,0 +1,34 @@
+Op dit volume staat de code voor een "unlharcer" voor CP/M.
+Vrijwel elk bulletinboard heeft zijn files "gezipt" (extensie .ZIP),
+of "geLHARC"t (extensie .LZH) (sorry, een betere naam ken ik er niet voor)
+Met de programmatuur op deze schijf kunnen files die gelharct zijn
+weer in hun normale vorm teruggebracht worden.
+Het hoofdprogramma heet LHX.COM, met dit programma kunnen ook files
+waarin fouten zitten eventueel weer hersteld worden.
+Deze mogelijkheid heb ik nog nooit gebruikt omdat ik nog nooit fouten met
+.LZH files heb gehad !
+
+Als de source file van LHX weer opnieuw gecompileerd moet worden zijn er
+twee manieren om dit automatisch te laten doen :
+Via een submit file (LHX.SUB) of via een zgn. make file :
+Diegenen die P2DOS hebben geinstalleerd en de date/time optie hebben 
+geimplementeerd, kunnen het prima via een make file doen, deze heet
+MAKEFILE. Het programma MAKE.COM dat bij P2DOS bijgelevert wordt kijkt
+als er niets wordt opgegeven naar de file MAKEFILE.
+
+Het grote voordeel van makefiles is dat alleen wat verandert is opnieuw
+gecompileerd of geassembleerd wordt.
+Via de make file "weet" het programma make welk programma onderdeel van wat
+afhankelijk (dependencies) is.
+Zo is bijvoorbeeld VARRAY.C afhankelijk van VARRAY.H.
+Make zal dan als VARRAY.H verandert is, VARRAY.C opnieuw compileren.
+
+Mochten er vragen of problemen over deze programma's, dan
+hoor ik het graag :
+
+Paul Fennema
+Satiestraat 24
+1323 SN Almere
+03240-60980
+ 
+ 

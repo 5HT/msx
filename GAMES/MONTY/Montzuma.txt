@@ -1,0 +1,29 @@
+Title: Montezuma's Revenge
+Environment: MSX or newer, Keyboard & Joypad, Musical Memory Mapper Cartridge
+Genre: Platform
+Language: English
+Year: 1984
+Publisher: Parker Bros.
+Developer: Parker Bros. (Designed by Robert Jaeger)
+
+Notes:
+- Start the game with ROM2MMM.COM under MSX-DOS 1/2, or from a plain ROM of
+  same size.
+- Conversion by GDX.
+- The MSX with a Russian keyboard are not supported.
+- crc32 = ce9544ba
+
+Keys Mapping:
+
+ F5           -  Reset game
+ Cursor keys  -  Movement of player 1
+ SPACE        -  Jump
+ N            -  Jump
+ 0-8          -  Level and player number select
+
+Joysticks:
+
+ Joystick 1   -  Movement of player 1
+ Joystick 2   -  Movement of player 2
+ Button 1     -  Jump
+ Button 2     -  Jump
